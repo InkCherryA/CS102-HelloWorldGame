@@ -1,0 +1,12 @@
+bass
+catfish
+perch
+trout
+carp
+sunfish
+crappie
+salmon
+swordfish
+bullhead
+eel
+tuna
