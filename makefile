@@ -24,4 +24,4 @@ clean:
 
 git:
 	git add .
-	git commit && git push -u origin master
+	git commit && git push -u origin main
